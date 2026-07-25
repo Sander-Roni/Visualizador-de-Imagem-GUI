@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+venv/
+Vmachine/
+
+.env
+
+dist/
+build/
+_internal/
+
+*.spec
