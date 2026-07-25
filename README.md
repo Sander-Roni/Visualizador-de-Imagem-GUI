@@ -2,8 +2,9 @@
 
 <img width="340" height="469" alt="image" src="https://github.com/user-attachments/assets/f846fa6c-8fbf-4131-8042-587bb95a9785" />
 
-<h5>Programa feito, com Intuição de Explorar o novo CustomTkinter e aprimorar mais as Habilidades 
-no Framework Pillow, mexendo assim com manipulação de Imagens no Python</h5>
+<h5>Aplicação desktop desenvolvida em Python utilizando CustomTkinter e Pillow,
+com integração à API Unsplash para busca e visualização de imagens.
+O projeto tem como objetivo explorar interfaces gráficas e manipulação de imagens.</h5>
 
 ---
 
@@ -22,7 +23,7 @@ Ferramentas e Tecnologias:
 
 ---
 
-<b>Intuição do Projeto:</b>
+<b>Intuito do Projeto:</b>
 
   - Melhorar e Fazer aplicações distintas, além de Explorar mais o Mundo das API's
 
