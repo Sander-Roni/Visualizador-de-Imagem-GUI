@@ -3,4 +3,4 @@ os
 dotenv 
 pillow 
 requests
-urllib.requests
+urllib.request
