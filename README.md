@@ -1,6 +1,6 @@
 <h1><b>#Visualizador de Imagens  🖼️</b></h1>
 
-<img width="340" height="469" alt="image" src="https://github.com/user-attachments/assets/f846fa6c-8fbf-4131-8042-587bb95a9785" />
+<center><img width="340" height="469" alt="image" src="https://github.com/user-attachments/assets/f846fa6c-8fbf-4131-8042-587bb95a9785" /></center>
 
 <h5>Aplicação desktop desenvolvida em Python utilizando CustomTkinter e Pillow,
 com integração à API Unsplash para busca e visualização de imagens.
