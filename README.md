@@ -37,7 +37,7 @@ Ferramentas e Tecnologias:
 
 <img width="348" height="478" alt="image" src="https://github.com/user-attachments/assets/2b00ba72-2553-4e9d-9918-2cb97312fbce" />
 
-<h2>Referencia</h2>
+<h2>Referencia da API</h2>
 
 https://unsplash.com/documentation
 
