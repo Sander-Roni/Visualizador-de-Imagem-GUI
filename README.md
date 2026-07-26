@@ -47,7 +47,7 @@ https://unsplash.com/documentation
 
 ---
 
-Instale as Dependencias
+<h3>Instale as Dependencias</h3>
 
-pip install -r requeriments.txt
+<h6>pip install -r requeriments.txt</h6>
 
