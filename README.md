@@ -41,3 +41,13 @@ Ferramentas e Tecnologias:
 
 https://unsplash.com/documentation
 
+---
+<h3>Clone o Repositorio</h3>
+   git clone https://github.com/Sander-Roni/Visualizador-de-Imagem-GUI.git
+
+---
+
+Instale as Dependencias
+
+pip install -r requeriments.txt
+
