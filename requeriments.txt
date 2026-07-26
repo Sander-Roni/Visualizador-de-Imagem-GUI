@@ -1,0 +1,5 @@
+customtkinter
+os 
+dotenv 
+pillow 
+requests
